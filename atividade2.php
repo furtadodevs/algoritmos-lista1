@@ -12,7 +12,6 @@ $valorBuffet = 85.00;
 // Processamento
 $orcamento = $qtdConvidados * $valorBuffet;
 
-
 ?>
 
 <!DOCTYPE html>
@@ -21,11 +20,12 @@ $orcamento = $qtdConvidados * $valorBuffet;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Atividade 2</title>
 </head>
 
 <body>
     <h3>Atividade 2</h3>
+
     <p>Um buffet cobra R$ 85,00 por pessoa para fornecer alimentação durante um
         evento. Crie variáveis para armazenar a quantidade de convidados e calcule o
         valor total do buffet.
@@ -33,6 +33,7 @@ $orcamento = $qtdConvidados * $valorBuffet;
         de R$ 10.200,00.</p>
 
     <p> <?php echo ("Orçamento: " . $orcamento); ?> </p>
+
 </body>
 
 </html>
