@@ -4,7 +4,7 @@ pagou uma entrada de R$ 1.000,00. Calcule quanto ainda falta pagar.
 Resultado esperado: um serviço de R$ 2.500,00 com entrada de R$ 1.000,00
 possui saldo de R$ 1.500,00.*/
 
-// Entrada - variáveis
+// Entrada - Variáveis
 $decoracaoCompleta = 2500.00;
 $entradaPagamento = 1000.00;
 

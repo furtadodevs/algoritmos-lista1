@@ -5,7 +5,7 @@ valor total do buffet.
 Resultado esperado: 120 convidados a R$ 85,00 precisam gerar um orçamento
 de R$ 10.200,00.*/
 
-// Entrada - variáveis
+// Entrada - Variáveis
 $qtdConvidados = 120;
 $valorBuffet = 85.00;
 
