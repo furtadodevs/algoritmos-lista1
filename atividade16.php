@@ -27,8 +27,7 @@ $valorFinal = $produto + $aumento;
 
     <h3>Atividade 16</h3
 
-        <p>Atividade 16
-    Faça um algoritmo que receba o preço de custo de um produto e mostre o valor
+        <p>Faça um algoritmo que receba o preço de custo de um produto e mostre o valor
     de venda. O usuário deve informar em quanto por cento deseja aumentar o valor
     do produto.
     Resultado esperado: um produto com custo de R$ 100,00 e aumento de 30% terá
