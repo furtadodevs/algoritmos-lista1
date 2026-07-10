@@ -12,8 +12,6 @@ $litro = 20;
 
 // Processamento
 $qtdGasolina = $valorGasto / $valorGasolina;
-$qtdLitro = $qtdGasolina * $valorGasto;
-$qtdFinal = $qtdLitro / $valorGasto;
 
 ?>
 
@@ -37,7 +35,7 @@ $qtdFinal = $qtdLitro / $valorGasto;
     conseguirá colocar 20 litros.
     </p>
 
-    <p> <?php echo ("Quantidade de litro: " . $qtdFinal) ?> </p>
+    <p> <?php echo ("Quantidade de litro: " . $qtdGasolina) ?> </p>
 
 </body>
 

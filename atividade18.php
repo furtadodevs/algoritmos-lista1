@@ -7,10 +7,10 @@ Resultado esperado: João, com salário fixo de R$ 1.500,00 e vendas de R$
 
 // Entradas - Váriaveis
 $salario = 1500.00;
-$comissao = 600.00;
+$venda = 4000;
 
 // Processamento
-$valorFinal = $salario + $comissao;
+$valorFinal = $salario + $venda * 15/100;
 ?>
 
 <!DOCTYPE html>
