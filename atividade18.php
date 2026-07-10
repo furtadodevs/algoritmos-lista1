@@ -10,7 +10,7 @@ $salario = 1500.00;
 $venda = 4000;
 
 // Processamento
-$valorFinal = $salario + $venda * 15/100;
+$valorFinal = $salario + $venda * (15/100);
 ?>
 
 <!DOCTYPE html>
